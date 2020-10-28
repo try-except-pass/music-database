@@ -7,4 +7,6 @@ A combination of 3 scripts that tells you how many albums of your favorite artis
 
 (3) Returns a list (in dict type) of all the albums, by artist, missing in your music library.
 
+Included an exe file (Music Database), created with pyinstaller, that runs the 3 scripts sequencialy.
+
 Suggestions are welcome if you have any.
